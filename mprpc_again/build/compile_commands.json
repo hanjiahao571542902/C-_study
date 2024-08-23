@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/jiahao/桌面/study/mprpc_again/build/example/callee",
+  "command": "/usr/bin/g++  -I/home/jiahao/桌面/study/mprpc_again/src/include -I/home/jiahao/桌面/study/mprpc_again/example -g -o CMakeFiles/provider.dir/userservice.cc.o -c /home/jiahao/桌面/study/mprpc_again/example/callee/userservice.cc",
+  "file": "/home/jiahao/桌面/study/mprpc_again/example/callee/userservice.cc",
+  "output": "example/callee/CMakeFiles/provider.dir/userservice.cc.o"
+},
+{
+  "directory": "/home/jiahao/桌面/study/mprpc_again/build/example/callee",
+  "command": "/usr/bin/g++  -I/home/jiahao/桌面/study/mprpc_again/src/include -I/home/jiahao/桌面/study/mprpc_again/example -g -o CMakeFiles/provider.dir/__/user.pb.cc.o -c /home/jiahao/桌面/study/mprpc_again/example/user.pb.cc",
+  "file": "/home/jiahao/桌面/study/mprpc_again/example/user.pb.cc",
+  "output": "example/callee/CMakeFiles/provider.dir/__/user.pb.cc.o"
+},
+{
+  "directory": "/home/jiahao/桌面/study/mprpc_again/build/example/caller",
+  "command": "/usr/bin/g++  -I/home/jiahao/桌面/study/mprpc_again/src/include -I/home/jiahao/桌面/study/mprpc_again/example -g -o CMakeFiles/consumer.dir/calluserservice.cc.o -c /home/jiahao/桌面/study/mprpc_again/example/caller/calluserservice.cc",
+  "file": "/home/jiahao/桌面/study/mprpc_again/example/caller/calluserservice.cc",
+  "output": "example/caller/CMakeFiles/consumer.dir/calluserservice.cc.o"
+},
+{
+  "directory": "/home/jiahao/桌面/study/mprpc_again/build/example/caller",
+  "command": "/usr/bin/g++  -I/home/jiahao/桌面/study/mprpc_again/src/include -I/home/jiahao/桌面/study/mprpc_again/example -g -o CMakeFiles/consumer.dir/__/user.pb.cc.o -c /home/jiahao/桌面/study/mprpc_again/example/user.pb.cc",
+  "file": "/home/jiahao/桌面/study/mprpc_again/example/user.pb.cc",
+  "output": "example/caller/CMakeFiles/consumer.dir/__/user.pb.cc.o"
+},
+{
+  "directory": "/home/jiahao/桌面/study/mprpc_again/build/src",
+  "command": "/usr/bin/g++  -I/home/jiahao/桌面/study/mprpc_again/src/include -I/home/jiahao/桌面/study/mprpc_again/example -g -o CMakeFiles/mprpc.dir/mprpcapplication.cc.o -c /home/jiahao/桌面/study/mprpc_again/src/mprpcapplication.cc",
+  "file": "/home/jiahao/桌面/study/mprpc_again/src/mprpcapplication.cc",
+  "output": "src/CMakeFiles/mprpc.dir/mprpcapplication.cc.o"
+},
+{
+  "directory": "/home/jiahao/桌面/study/mprpc_again/build/src",
+  "command": "/usr/bin/g++  -I/home/jiahao/桌面/study/mprpc_again/src/include -I/home/jiahao/桌面/study/mprpc_again/example -g -o CMakeFiles/mprpc.dir/mprpcconfig.cc.o -c /home/jiahao/桌面/study/mprpc_again/src/mprpcconfig.cc",
+  "file": "/home/jiahao/桌面/study/mprpc_again/src/mprpcconfig.cc",
+  "output": "src/CMakeFiles/mprpc.dir/mprpcconfig.cc.o"
+},
+{
+  "directory": "/home/jiahao/桌面/study/mprpc_again/build/src",
+  "command": "/usr/bin/g++  -I/home/jiahao/桌面/study/mprpc_again/src/include -I/home/jiahao/桌面/study/mprpc_again/example -g -o CMakeFiles/mprpc.dir/rpcheader.pb.cc.o -c /home/jiahao/桌面/study/mprpc_again/src/rpcheader.pb.cc",
+  "file": "/home/jiahao/桌面/study/mprpc_again/src/rpcheader.pb.cc",
+  "output": "src/CMakeFiles/mprpc.dir/rpcheader.pb.cc.o"
+},
+{
+  "directory": "/home/jiahao/桌面/study/mprpc_again/build/src",
+  "command": "/usr/bin/g++  -I/home/jiahao/桌面/study/mprpc_again/src/include -I/home/jiahao/桌面/study/mprpc_again/example -g -o CMakeFiles/mprpc.dir/rpcprovider.cc.o -c /home/jiahao/桌面/study/mprpc_again/src/rpcprovider.cc",
+  "file": "/home/jiahao/桌面/study/mprpc_again/src/rpcprovider.cc",
+  "output": "src/CMakeFiles/mprpc.dir/rpcprovider.cc.o"
+},
+{
+  "directory": "/home/jiahao/桌面/study/mprpc_again/build/src",
+  "command": "/usr/bin/g++  -I/home/jiahao/桌面/study/mprpc_again/src/include -I/home/jiahao/桌面/study/mprpc_again/example -g -o CMakeFiles/mprpc.dir/mprpcchannel.cc.o -c /home/jiahao/桌面/study/mprpc_again/src/mprpcchannel.cc",
+  "file": "/home/jiahao/桌面/study/mprpc_again/src/mprpcchannel.cc",
+  "output": "src/CMakeFiles/mprpc.dir/mprpcchannel.cc.o"
+}
+]

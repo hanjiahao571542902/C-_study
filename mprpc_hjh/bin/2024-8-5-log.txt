@@ -1,0 +1,3 @@
+
+18:25:2 =>[error] first log message!
+18:25:2 =>[error] /home/jiahao/桌面/study/mprpc_hjh/example/callee/friendsservice.cc:main:43

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/provider.dir/userservice.cc.o CMakeFiles/provider.dir/__/user.pb.cc.o -o /home/jiahao/桌面/study/mprpc_again/bin/provider   -L/home/jiahao/桌面/study/mprpc_again/lib  -Wl,-rpath,/home/jiahao/桌面/study/mprpc_again/lib /home/jiahao/桌面/study/mprpc_again/lib/libmprpc.a -lprotobuf -lmuduo_net -lmuduo_base -lpthread -lzookeeper_mt
